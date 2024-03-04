@@ -1,58 +1,71 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Charlotte Keitumetse Lekoro
+- **Date:00=4/03/2024
+- **Current Role/Position:Software Engineering student
+- **Field of Interest: Cybersecurity
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    * Become proficient in programming languages such as HTML, CSS, JavaScript, and also Python or Java.
+    * Problem solving and problem analysis skills
+    * Understand web development framesorks and technologies.
+    * 
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+   *Ensuring the security and integrity of software and systems.
+   *Identifying and help prevent security threats and vulnerabilities.
+   *Contributing to creating a safer digital environment, making a positive mark through good work.
+   *Continuous learning and growth in the field
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
+   * Places to do cybersecurity courses
+   * Names of cybersecurity companies/agents and consulting firms in South Africa
+   * Signed up for Women in Cybersecurity website and recieves alert on new trends, engagement webinars and signed up to ITWEB to recieve news info on the latest news in ICT  * 
+
+     **Areas of interest**:
+     *Ethical hacking and penetration testing
+     *Security analysis and incident response
+     *Threat detection
+     
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+   *Transitioning to cybersecurity aligns with interests in ensuring software and system security.
+   *Values of integrity and continuous learning are crucial in the field of cybersecurity.
+
+   Gaps or areas for further exploration:
+
+    *Further exploration of specific cybersecurity roles and specializations.
+    *Hands-on experience and certifications to validate skills and knowledge.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
+    *Complete a foundational certifications such as CompTIA Security+ or Certified Ethical Hacker (CEH) within the next year.
+    *Rationale: Establish a strong foundation in cybersecurity principles and practices.
+
+     *Complete online courses or focused on networking fundamentals and cybersecurity essentials.
+     *Rationale: Enhance understanding of key concepts and technologies relevant to cybersecurity.
+
+     * Take part and complete the Take Note IT Cyber Excellence Academy course
+     * Rationale: Get further credits and certifications in cyber security
+
+     *Take part in open source projects
+     *Rationale: Opportunities for growth and show collaboration with peers
+       
+3. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+  * Attain advanced certifications such as Certified Information Systems Security Professional (CISSP) or Offensive Security Certified Professional (OSCP).
+  *Rationale: Gain recognition and expertise in specific areas of cybersecurity, such as security management or penetration testing.
+
+   *Secure a cybersecurity role in a reputable organization or consultancy, contributing to enhancing cybersecurity posture and protecting against emerging threats.
+Rationale: Apply skills and knowledge to real-world scenarios, making a meaningful impact in cybersecurity.
 
 ### Part 4: Action Plan
 
