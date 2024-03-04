@@ -3,7 +3,7 @@
 ### Personal Information
 
 - **Name: Charlotte Keitumetse Lekoro
-- **Date:00=4/03/2024
+- **Date:04/03/2024
 - **Current Role/Position:Software Engineering student
 - **Field of Interest: Cybersecurity
 
