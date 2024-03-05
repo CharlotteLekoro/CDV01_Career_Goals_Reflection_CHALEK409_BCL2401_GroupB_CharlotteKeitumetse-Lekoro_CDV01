@@ -25,8 +25,8 @@
 1. **Industries and Roles Explored**:
    * Places to do cybersecurity courses
    * Names of cybersecurity companies/agents and consulting firms in South Africa to find out about mentorships and apprenticeship programs that may be available
-   * Signed up for Women in Cybersecurity website and recieves alert on new trends, engagement webinars and signed up to ITWEB to recieve news info on the latest news in ICT
-   *  Government Agencies or Departments Focused on Cybersecurity: Positions such as cybersecurity analyst, security specialist, or information security officer.
+   * Signed up for Women in Cybersecurity website and recieves alert on new trends, engagement webinars and signed up to ITWEB, KnowB4, to recieve news info on the latest news in ICT
+   * Continuosly chec the South African Department of Communicatons and Digital technologies webite for opportunities in cybersecurity in govenment agencies
 
      **Areas of interest**:
      *Ethical hacking and penetration testing
